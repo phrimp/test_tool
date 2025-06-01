@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 fmt.Println("hi this is the first line")
+fmt.Println("hi this is the second line")
 }
